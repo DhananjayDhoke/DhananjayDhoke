@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **web development, MEARN**
+- 💬 Ask me about **web development, MERN**
 
 - 📫 How to reach me **dhananjaydhoke3@gmail.com**
 
