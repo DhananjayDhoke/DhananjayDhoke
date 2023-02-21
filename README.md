@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjaydhoke&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjaydhoke" /> </p>
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 **full stack web development**
 
-- 💬 Ask me about **web development, MERN**
+- 💬 Ask me about **web development, MERN , Java backend development**
 
 - 📫 How to reach me **dhananjaydhoke3@gmail.com**
 
