@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhananjaydhoke3@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1eZK0DHd3nPhtceuDgtGJzGXnXweXeEls/view?usp=sharing](https://drive.google.com/file/d/1n4PIoFb_JGsbYQC1euk4pZOgDvd1FGUz/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1eZK0DHd3nPhtceuDgtGJzGXnXweXeEls/view?usp=sharing](https://drive.google.com/file/d/1n4PIoFb_JGsbYQC1euk4pZOgDvd1FGUz/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
